@@ -2,7 +2,7 @@
 [![Gobuild Download](https://img.shields.io/badge/gobuild-download-green.svg?style=flat)](http://gobuild.io/github.com/optiflows/tentacool)
 [![Go Walker](https://img.shields.io/badge/GoWalker-Doc-blue.svg?style=flat)](https://gowalker.org/github.com/optiflows/tentacool)
 [![Travis](https://travis-ci.org/Ketouem/tentacool.svg?branch=master)](https://travis-ci.org/Ketouem/tentacool)
-
+[![Drone.io](https://drone.io/github.com/Ketouem/tentacool/status.png)](https://drone.io/github.com/Ketouem/tentacool/latest)
 ## Description
 
 `tentacool` is a Go server controlled via RESTful API through a Unix Domain Socket.
